@@ -1,2 +1,2 @@
 # Data_mining
- Data_mining(Fall 2019)
+Lecture(ESM2014-41) : Data_mining(Fall 2019)
