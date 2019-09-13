@@ -1,2 +1,2 @@
 # Data_mining
- Data_mining(2019 Fall)
+ Data_mining(Fall 2019)
